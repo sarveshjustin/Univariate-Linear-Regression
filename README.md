@@ -41,6 +41,10 @@ print (m, b)
 ## output:
 ![output](./out1.png)
 
+## graph output :
+![graph output](./type1.png)
+
+
 
 
 ## Result
