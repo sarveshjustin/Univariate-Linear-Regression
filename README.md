@@ -16,10 +16,6 @@ To implement univariate Linear Regression to fit a straight line using least squ
 
 ## Program
 
-
-### input:
-![input](./input.jpg)
-
 ```
 import numpy as np
 X = np.array(eval(input()))
